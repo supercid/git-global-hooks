@@ -5,4 +5,4 @@ mkdir -p ~/.git-templates/hooks
 
 cp -R ./hooks/* ~/.git-templates/hooks/
 
-chmod a+x ~/.git-templates/hooks/pre-commit
+chmod a+x ~/.git-templates/hooks/*
